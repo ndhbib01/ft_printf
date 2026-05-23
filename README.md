@@ -21,7 +21,7 @@ The implementation supports the mandatory conversions:
 - `%X`
 - `%%`
 
-The project follows the 42 Norm and is compiled into a static library named:
+We compile into a static library by using the command 'make' named:
 
 ```bash
 libftprintf.a
@@ -176,7 +176,6 @@ The project only uses allowed functions:
 - `man 3 printf`
 - `man stdarg`
 - GNU C Library `printf` documentation
-- 42 project subject
 
 ## AI Usage
 
