@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by hahabib.*
-
 # ft_printf
 
 ## Description
